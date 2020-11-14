@@ -1,0 +1,10 @@
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\bin\Debug\SinekAvlamaApp.exe.config
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\bin\Debug\SinekAvlamaApp.exe
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\bin\Debug\SinekAvlamaApp.pdb
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\obj\Debug\SinekAvlamaApp.csprojAssemblyReference.cache
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\obj\Debug\SinekAvlamaApp.frmOyun.resources
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\obj\Debug\SinekAvlamaApp.Properties.Resources.resources
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\obj\Debug\SinekAvlamaApp.csproj.GenerateResource.cache
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\obj\Debug\SinekAvlamaApp.csproj.CoreCompileInputs.cache
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\obj\Debug\SinekAvlamaApp.exe
+C:\Users\alleo\source\repos\SinekAvlamaApp\SinekAvlamaApp\obj\Debug\SinekAvlamaApp.pdb
